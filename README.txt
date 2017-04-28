@@ -1,11 +1,11 @@
-# Personal Blog
+#Personal Blog
 
-## Tech stack:
+##Tech stack:
 
-### Front-End:
+###Front-End:
 - React JS
 - Vanilla JS
 - SASS
 
-### Back-End:
-- - Express JS
+###Back-End:
+- Express JS
